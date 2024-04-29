@@ -1,1 +1,29 @@
+Reading
+The Ultimate Guide to SOC 2 Compliance
 
+How would you convince your future company to pursue SOC2 compliance?
+I would explain that SOC2 is a more devloped holistic framework that better demonstrates company maturity.  
+Demonstrating company maturity is a way to exude stability, which in cooperation with SOC1 (more financial report driven)
+greatly increase confidence in the company from employees and customers all the way to investors.
+
+What are the five SOC2 Trust Principles?
+-Security
+-Confidentiality 
+-Availability
+-integrity
+-Privacy
+
+How would your explain the three levels of the SOC2 pyramid in an analogy your friends or former colleagues would understand?
+The SOC2 documentation pyramid is a little like a Bibimbap bowl:
+
+-The base or FOUNDATION is comprised high level security policies that explain roles, responsibilities and what the company DOES,
+so...the crispy rice in a Bibimbap bowl. Nothing else makes sense without it.
+
+-The next layer is EXECUTION, which explains the processes and procedures of HOW the company lives up to (and follows through with) 
+the policies outlined in the first layer.  This is the savory meat or protein in the Bibimbap bowl...different proteins for different industries. 
+
+-Finally the top layer is the PROOF of what was done.  If the 1st and 2nd layers were done correctly then this layer will come as a result
+of them.  This is the acid in the Bibimbap bowl that cuts through the savory flavors and gives meaning and appreciation for all the 
+previous layers.
+
+## Things I want to know more about
