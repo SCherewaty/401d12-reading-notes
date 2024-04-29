@@ -1,4 +1,7 @@
 Practice in the Terminal
 
 Many of these commands I've already forgotten so it's good to see them again.  It's amazing how one week can degrade memory.  However, using them on a day to day basis will make them more 
-unforgettable. 
+unforgettable. Bash was more useful in 201 but as much as I've been a Windows doubter...I gotta hand it to Powershell.  I've found scripts on Powershell ISE to be easier for me to connect 
+to the syntax.  The whole concept of scripting os still new and weird to me.  It's a bit like being told early on that math "isn't your thing", only to realize in college that math IS your
+thing and you're actually quite good at it.  Same applies to scripts and coding for me.  I actively avoided it for years and now that I'm looking more closely at it...it still makes only a 
+little sense now but it's dawning on me that only more experience is needed, not necessarily higher IQ.
