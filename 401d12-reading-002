@@ -1,1 +1,18 @@
+Reading
 
+Explain the levels of abstraction in AWS to someone without a technical background.
+Levels of abstraction are the growing number of spaces in between the end user and the hardware (servers).  There is a physical 
+component to computing. Back in the day this used to happen in our Atari dual 5 1/2 floppy drives.  Now though, computing happens 
+remotely and is managed by services like AWS. There are often multiple orders of separation between the person running the website and 
+the service offerin the compute as a service.
+
+What are the control plane and data plane responsible for in container abstraction?
+-The control plane is responsible for making the API accessible and interfaces to define, deploy, and lifecycle containers. 
+-The data plane is responsible for providing capacity so that containers can run and interface with a network.
+
+Where does AWS Lambda fall in the layers of abstraction and what makes it so special?
+AWS Lambda is ALL function. It's a serverless function. In fact it's so much function that its essentially like taking 
+a single piece of a fully functioning computer and have it waiting to do a thing on-demand. 
+
+## Things I want to know more about
+More about use cases for Lambda and EC2
