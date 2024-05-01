@@ -1,1 +1,19 @@
+Reading
+Security and Risk Management
 
+Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
+For CONFIDENTIALITY the bank can use deterrence; cameras, polarized display screens.  Also each user must use an ATM card and a PIN to access their accounts.
+For INTEGRITY the bank keeps records of transactions and has early warning services to spot unusual activity.
+For AVAILABILITY the ATM's are out in the open and available for anyone with a back card.
+
+Name three best practices that support the CIA triad.
+Separation of duties  
+Least privilege
+Dual control
+
+What are the three stages of the risk management lifecycle? What is each stage’s main goal or objective?
+Risk assessment
+Risk analysis
+Risk mitigation/response
+
+## Things I want to know more about
