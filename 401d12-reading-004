@@ -1,1 +1,25 @@
+Reading
+CIS Benchmarks
 
+What are three benefits of following CIS Benchmarks?
+"-Regularly updated, step-by-step guidance for securing every area of the IT infrastructure
+-Compliance management consistency
+-A flexible template for securely adopting new cloud services and for executing digital transformation strategies"
+Direct quote taken from https://www.ibm.com/topics/cis-benchmarks
+
+What are the seven core categories of CIS Benchmarks?
+1. OS Benchmarks
+2. Server Software Benchmarks
+3. Cloud provider benchmarks
+4. Mobile device benchmarks
+5. Network device benchmarks
+6. Desktop software benchmarks
+7. Multi-function print device benchmarks
+
+How would you convince your manager that applying CIS Benchmarks could fast-track your organization’s compliance?
+For a manager I would fall back on Compliance. "Any organization operating in an industry governed by these types of regulations 
+can make significant progress toward compliance by adhering to CIS Benchmarks. In addition, CIS Controls and CIS Hardened Images 
+can help support an organization's compliance with GDPR."
+Direct quote taken from https://www.ibm.com/topics/cis-benchmarks
+
+## Things I want to know more about
