@@ -1,1 +1,18 @@
+Reading
 
+You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad?
+C (Confidentiality) - I would set up encryption for data in transit...although its stock stuff now in a lot of software.
+I (Integrity) - For integrity I would chose digital signatures.  Hashing is cool but digital signatures are easier for employees.
+A (Accessibility) - For data at rest i could require 2-Factor Authentication for access to the server
+
+Explain how hashing verifies data integrity using non-technical terms.
+Do you remember the movie The Mummy with Brendan Frasier?  Hashing is a similar principle to what the Pharoh in the movie did to ensure no one touched his Queen.  
+The Queen was covered in detailed body paint and if someone touched her it would smear the paint.  Data is given a unique identifier on the SENDER side of the transit.  If
+someone tampers with that data the unique identifier completely changes from the original.  On the other side of the transit the RECEIVER can see if the unique identifier is the same one 
+the SENDER intended. In any case tampering would be evident.
+
+How is hashing and encryption different?
+Anything that can be encrypted can be decrypted with a cipher or key.  It's a 2-way street.  Hashing is a 1-way street.  Not If's, And's or But's.
+ 
+
+## Things I want to know more about
