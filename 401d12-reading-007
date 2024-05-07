@@ -1,1 +1,12 @@
+Reading
+Data Protection: Data In transit vs. Data At Rest
 
+From your day to day computer use, provide examples of when data is at rest and when it is in transit.
+Data at rest is information stored safely in my hard drive, archived away for later retrieval.  Data in transit is information being sent from 
+my computer to another destination; like email or file transfers.
+
+Explain the role data encryption with regards to the CIA triad.
+Data encryption is primarily concerned with Confidentiality.  Protecting the information in transit from being viewed by outside parties is the primary 
+function of data encryption although there are forms of similar protections that are also protective of Integrity.
+
+## Things I want to know more about
