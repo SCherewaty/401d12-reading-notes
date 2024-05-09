@@ -1,1 +1,23 @@
+Reading
+What is Public Key Infrastructure (PKI)
+
+Name the three main components which make up PKI.
+Digital Certificate
+Certificate authority
+Registration Authority
+
+How would you explain, to a non-technical friend, the role PKI plays in protecting traffic between your browser and a web server.
+The classic analogy is a 3 position lock on a lockbox.  "The lockbox has two keys, Left Key (which can only turn to the left) and Right Key (which can only turn to the right). 
+So if the box is in the left-locked position, only the Right Key can open it. And if the box is in the right-locked position, only the Left Key can open it. 
+An authority can make copies of the Left Key and pass them around while keeping the Right Key secret.  When it comes to the internet, the public key is tied or signed by a digital 
+certificate provided by a certificate authority (CA). This means that the CA is, in effect, authenticating that Bob is Bob in the first place. These CAs are trusted third-parties 
+and follow a set of policies and security guidelines that reinforce the faith people place in their certificates. "
+(Source on direct quote: https://www.intertrust.com/blog/what-is-pki/)
+
+What is the main weakness of the PKI architecture?
+There's essentially no central authority and hostile organizations or nations can issue fraudulant certificates.  There's also no transaparency into what or how 
+many certificates are actually circulating.
+
+## Things I want to know more about
+
 
