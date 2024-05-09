@@ -2,9 +2,10 @@ Reading
 What is Public Key Infrastructure (PKI)
 
 Name the three main components which make up PKI.
-Digital Certificate
+Digital Certificates
 Certificate authority
 Registration Authority
+(Went to another source for this: https://www.globalsign.com/en/blog/ae/basics-public-key-infrastructure-types-components)
 
 How would you explain, to a non-technical friend, the role PKI plays in protecting traffic between your browser and a web server.
 The classic analogy is a 3 position lock on a lockbox.  "The lockbox has two keys, Left Key (which can only turn to the left) and Right Key (which can only turn to the right). 
