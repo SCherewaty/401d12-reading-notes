@@ -1,1 +1,18 @@
+Reading
+Is Cybersecurity Automation the Future?
+Automated Incident Response Explained
 
+How would a security team benefit from implementing a SOAR solution?
+The need for cybersecurity professionals has increased because the complexity of systems and their integrations
+has also increased at alarming rates.  Complexity opens vulnerabilities that can make it past human operators
+who can't stare at the matrix for hours on end.  SOAR custom code and out-of-the-box sloutions can filter out 
+the mundane while still being able to have enough resolution to catch patterns and issues.
+
+Explain how a SOAR solution fits into the Incident Response process.
+A SOAR solution would first act as a central hub to tie-in the various threat detection and remediation tools 
+at a teams disposal.  Playbooks would be used to prioritize operations and the most machinelike jobs would be
+automated.  A SOAR solution would note potential threats and threat patterns.  These would be logged, organized 
+prepared for a human powered response.
+
+
+## Things I want to know more about
