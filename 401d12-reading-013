@@ -1,1 +1,17 @@
+Reading
 
+What are the benefits of a forward proxy?
+-Being able to avoid institutional or state restrictions while perusing the web.
+-The ability to block certain groups from accessing content.
+-The ability to use the IP of the Proxy in order to conceal their own IP.
+
+Explain the differences between a forward and a reverse proxy?
+A forward proxy is in service in front of the client ensuring an origin server doesn't directly interact 
+with a client.  A reverse proxy is in service in front of the origin server ensuring a client doesn't directly interact 
+with the server.  
+
+Explain to your manager why your organization might benefit from implementing a reverse proxy?
+A reverse proxy is another layer of encryption and security as well a tool to balance traffic (load balancing). 
+Additionally, the ability to cache website data helps to increase speed and service performance. 
+
+## Things I want to know more about
