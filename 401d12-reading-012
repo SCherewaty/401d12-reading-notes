@@ -1,1 +1,19 @@
+Reading
+What is a SOC?
 
+What are three tasks which SOCs often perform?
+-Security Event Monitoring and Alerting
+-Security Incident Response
+-Security Information and Event Management (SIEM)
+
+Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
+A SIEM is like a dispatcher for a SOC's police and firefighters. It gathers information 
+from all the security tools on a network and sends it to the SOC analysts, just like a 
+dispatcher gathers calls and sends police and firefighters where they're needed. 
+
+
+How does the typical SOC team structure resemble the structure of an IT Help Desk.
+It's done in a tiered configuration meant to eliminate the masses of data then filter down to the things 
+that require greater and greater attention and expertise.
+
+## Things I want to know more about
