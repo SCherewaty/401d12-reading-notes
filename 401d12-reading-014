@@ -1,1 +1,17 @@
+Reading
+The Pros and Cons of Network Intrusion Detection Systems
 
+List 2 differences between firewalls and an IDS?
+A firewall controls traffic flow  based on predefined rules but IDS is more passive and monitors traffic for 
+malicious activity but doesn't directly block it.  Also, a firewall focuses on enforcing acess rules based on IP addresses, ports or 
+protocols IDS focuses on identifying unusual patterns in network traffic that might indicate an attack.
+
+Under what circumstances would you choose a network-based IDS over a host-based IDS?
+if you want greater scalability and greater transparency into network wide issues and anomolies.
+
+Name 3 major drawbacks of a NIDS?
+Lots of false positives
+Performance issues 
+
+
+## Things I want to know more about
