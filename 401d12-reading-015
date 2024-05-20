@@ -1,1 +1,19 @@
+Reading
+Lessons Learned from the Capital One Data Breach (PDF)
 
+What were the three commands used for the attack?
+Get Credentials
+List Buckets  
+Download Files
+
+What misconfiguration of AWS components allowed the attacker to access sensitive data?
+It was a misconfiguration of WAF tied to an EC2 instance and used Server-side Request Forgery (SSRF) to call the 
+metadata service endpoint using the http://169.254.169.254/iam/security-credentials command.
+
+What are two of the AWS Governance practices that could have prevented such attack?
+1. "Don't allow EC2 instances to have IAM roles that allow attaching or replacing role policies in any 
+production environment." (Source: https://www.zscaler.com/resources/white-papers/capital-one-data-breach.pdf)
+2. "Ensure each application, EC2 instance, or autoscaling group has its own IAM role. Do not share roles 
+across unrelated applications."  (Source: https://www.zscaler.com/resources/white-papers/capital-one-data-breach.pdf)
+
+## Things I want to know more about
