@@ -1,1 +1,23 @@
+Reading
+IBM Cloud Learn Hub - What is a Virtual Private Cloud?
 
+What are some of the key features of the VPC model?
+Security
+Availability
+Flexibility
+Affordability
+
+What are the three tiers that comprise the three-tier architecture model?
+Compute
+Storage
+Networking
+
+Describe the differences between a VPC and a VPN to someone you know from your previous job.
+"A virtual private network (VPN) makes a connection to the public Internet as secure as a connection 
+to a private network by creating an encrypted tunnel through which the information travels. You can 
+deploy a VPN-as-a-Service (VPNaaS) on your VPC to establish a secure site-to-site communication 
+channel between your VPC and your on-premises environment or other location. Using a VPN, you can 
+connect subnets in multiple VPCs so that they function as if they were on a single network."
+(Source: https://www.ibm.com/topics/vpc)
+
+## Things I want to know more about
