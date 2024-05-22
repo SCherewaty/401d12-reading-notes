@@ -1,1 +1,15 @@
+Reading
+Introduction to AWS CloudWatch
 
+Explain CloudWatch Events to a non-technical friend.
+Cloudwatch is essentially a dashboard where the overall health, metrics and status of your various AWS services
+are visible.  Cloudwatch logs events and has all your settings front and center.
+
+What do CloudWatch Logs helps us achieve?
+Troubleshooting, quesrying and filtering and compliance all in one centralized location.
+
+What capabilities does CloudWatch Anomaly detection have?
+It helps monitor unusual behavior in metrics through pattern recognition (established through a baseline), checking historical usage
+and connecting alerts to get the human's attention.
+
+## Things I want to know more about
