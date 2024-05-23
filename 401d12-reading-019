@@ -1,1 +1,22 @@
+Reading
+What is Amazon GuardDuty?
 
+What are some of the IoCs that GuardDuty can detect?
+Compromised EC2 instances, data exfiltration and anomolous IAM activity are 
+among the best values for GuardDuty.
+
+What are some of the data sources which GuardDuty can use?
+-AWS CloudTrail Event Logs
+-Amazon VPC Flow Logs
+-DNS Logs
+-AWS S3 Data Events
+
+How does GuardDuty use access behavior to spot potential malicious activity?
+comparing current behavior against established baselines and known threat patterns, GuardDuty can 
+effectively identify potential security threats
+-Monitoring API Calls
+-Detecting Anomalous Logins
+-Identifying Unusual Data Accesss
+-Analyzing Network Traffic
+
+## Things I want to know more about
