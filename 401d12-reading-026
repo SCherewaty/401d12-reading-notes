@@ -1,1 +1,17 @@
+Reading
 
+You just got a new job as a Cyber Threat Analyst, how would you explain your role to a family member?
+I'd use an analogy to a physical security guard.  Every building has vulnerabilities that make access for criminal 
+element spossible and sometimes, easy.  My job is to watch for trespassers and bolstering the defenses og the building.
+The only difference is that my job is all digital with the "building" being valuable information.
+
+Explain what makes PowerShell such an effective attack vector.
+Windows has the market share of business computers and powershell is Windows. Next, scripts can be obfuscated and run in 
+memory, making them difficult for traditional security tools to detect. Also, Powershell has extensive capabilities like system 
+functions, Windows API, and especially remote administration.  Very appealing to hacker-types.
+
+What are two things you can do to mitigate attacks that leverage PowerShell?
+-Enable logging and monitoring for sure.
+-Restrict Powershell scripts through applicatin control policies.
+
+## Things I want to know more about
