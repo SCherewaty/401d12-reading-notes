@@ -1,1 +1,20 @@
+Reading
 
+Explain some specifics of why a hacker might want to clear log files to a family member. Do not use the example from the article.
+I used an example in class about this.  When I was little I used to snoop through my parents drawers but they always knew I was there becasue of my teeny footprints in the carpet.
+I discovered I could snoop with impunity if I swept my foot left and right over the carpet as I backed away from the drawers. It just looked like vacuum cleaner lines in the 
+carpet.  The same principle applies to hackers covering their tracks.  A hacker could specifically clear away their activies or they could nuke the whole place (ripping out the whole 
+carpet in this analogy) obfuscating everything.
+
+What are three methods by which you can clear logs in a Windows system?
+-Using a script
+-Clear from Event Viewer
+-From the Command Line
+
+What are the four steps in the process of covering your tracks.
+1. Disable auditing
+2. Clearing logs
+3. Modifying logs
+4. Erasing command history
+
+## Things I want to know more about
