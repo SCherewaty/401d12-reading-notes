@@ -1,1 +1,20 @@
+Reading
 
+Explain threat modeling using real-world non-technical examples.
+Building a threat model allows us make informed decisions about security risks associated with different applications. This is essentially
+like examining the process for building a table, listing out the steps and materials and identifying safety hazards you may encounter.
+
+What are the four questions that can help us organize threat modeling?
+-What are we working on?
+-What can go wrong?
+-What are we going to do about it?
+-Did we do a good job?
+
+Taken directly from: https://owasp.org/www-project-threat-model/
+
+You are the project lead for a new application. How would you explain the benefits of Threat Modeling to the rest of the team?
+I'd always start off with compliance and risk management.  Then I'd be sure to point out that threat modeling helps identify threats
+before they become threats.  Security is a "first-cost-least-cost" value proposition, more time and effort spent at the beginning of the product
+development cycle the less will be required in operational mode. 
+
+## Things I want to know more about
