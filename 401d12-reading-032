@@ -1,1 +1,19 @@
+Reading
+
+You just started a new job as a Malware Analyst. Explain your job responsibilities to a family member.
+I'm essentially a pest control technician for computers.  I spend my day analyzing harmful software bugs and study their behavior to understand how they 
+cause damage. Additionally I help develop ways to eliminate them and prevent future infestations. 
+
+What are the six steps of the Malware Analysis process? What’s a good mnemonic you can use to remember it?
+-Identification  (Inspect)
+-Environment Preparation (Every)
+-Static Analysis (Suspected)
+-Dynamic Analysis (Dangerous)
+-Behavioral Analysis (Bug)
+-Documentation and Reporting (Rigorously)
+
+You are tasked with analyzing a new malware sample. Which type of malware analysis would you conduct first and why?
+Static Analysis.  At least this way I'm not exposing anything harmful to my own components.
+
+## Things I want to know more about
 
