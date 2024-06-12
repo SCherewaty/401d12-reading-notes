@@ -1,1 +1,17 @@
+Reading/Video
+What Is Threat Hunting and Why Is It so Important? – Video Blog
+
+How are Threat Hunting and Pentesting different?
+Threat hunting is the act of proactively seeking out potential threats and security breaches 
+within an organization’s network.  Penetration testing is more like a simulated attack in a controlled
+environment.  Threat hunting is like hunting game, like fowl or deer.  Penetration testing is more like
+paintball wars between teams.
+
+What is the primary objective of Threat Hunting?
+To actively seek out threats, discover previously UNKNOWN threats and enhance detection capabilities by 
+updating security controls and response strategies.
+
+Your organization has a fully functioning SOC but not active Threat Hunting. How would you advocate for your security organization to start Threat Hunting activities?
+As always I'd first bring up compliance; An organization for threat hunting would strengthen our security posture - including compliance.  
+It would also reduce dwell time and damage mitigation time and enhance our detection of advanced threats.
 
