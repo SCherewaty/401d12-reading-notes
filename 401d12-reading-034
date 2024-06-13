@@ -1,1 +1,19 @@
+Reading
 
+What are the main differences between computer forensics and cybersecurity?
+-Different purposes: Computer forensics is mostly retrospective, following a messed up incident or crime to understand and 
+provide evidence of what occurred. Cybersecurity is proactive and preventative, attempting to prevent incidents from occurring.
+-Different approaches: Forensics is detail-oriented and focuses on analysis of evidence. Cybersecurity is strategic, involving 
+developing preventative security measures.
+-Different outcomes: With computer forensics, a report or testimony in a legal setting is the outcome.  The outcome of cybersecurity 
+is a more secure data environment.
+
+What are the six stages of a computer forensics examination?
+-Identification
+-Preservation
+-Collection
+-Examination
+-Analysis
+-Reporting
+
+## Things I want to know more about
