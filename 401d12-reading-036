@@ -1,1 +1,34 @@
+Reading
+Cross-site scripting
 
+Explain how a cross-site scripting attack works in non-technical terms.
+Essentially a hacker takes advantage of a vulnerable website and delivers a payload to an unsuspecting
+user of the website.  It's like a spy installing an audio bug in a briefcase in a store after hours.  The 
+next day a customer comes into the store and purchases the bugged briefcase and the hacker can now hear the 
+customers conversations whereever they go.
+
+What are the three types of XSS attacks?
+-Reflected XSS
+-Stored XSS
+-Document Object Model (DOM)-based XSS
+
+If an attacker successfully exploits a XSS vulnerability, what malicious actions would they be able to perform?
+-Steal Cookies and Session Information
+-Phishing
+-Keylogging
+-Redirecting Users
+-Defacement
+-Spread Malware
+-Bypass Security Measures
+-Modify DOM Elements
+
+What are some security controls that can be implemented to prevent XSS attacks?
+HTTP Headers
+Regular Security Audits
+Content Security Policy (CSP)
+Input Validation
+
+Among others...
+
+
+## Things I want to know more about
