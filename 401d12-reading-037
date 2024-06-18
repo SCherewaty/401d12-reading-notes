@@ -1,1 +1,25 @@
+Reading
+Getting Started with Zed Attack Proxy
 
+What are the three common stages of the Penetration Testing process and what tasks are performed at each one?
+"Explore – The tester attempts to learn about the system being tested. This includes trying to determine what software 
+is in use, what endpoints exist, what patches are installed, etc. It also includes searching the site for hidden 
+content, known vulnerabilities, and other indications of weakness.
+Attack – The tester attempts to exploit the known or suspected vulnerabilities to prove they exist.
+Report – The tester reports back the results of their testing, including the vulnerabilities, how 
+they exploited them and how difficult the exploits were, and the severity of the exploitation."
+
+Source of direct quote: https://www.zaproxy.org/getting-started/
+
+Explain a “main-in-the-middle proxy” in non-technical terms.
+Using restaurant terms, a main-in-the-middle proxy would be like a security guard checking your 
+waiter's ID every time he or she takes your order to the kitchen. 
+
+What are the 2 spiders available for use in ZAP?
+Traditional spider (fast but sloppy) and an AJAX spider (slower but more thorough)
+
+What situations are they best suited for?
+The traditional spider is good for examining the HTML in responses from the web application.
+The AJAX spider invokes browsers and then follows the links that have been generated.
+
+## Things I want to know more about
