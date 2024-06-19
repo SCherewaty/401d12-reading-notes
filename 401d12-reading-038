@@ -1,1 +1,16 @@
+Reading
 
+Explain how Burp Suite allows us to analyze web application traffic.
+One of the tools is a proxy that can intercept web requests and responses and is able to 
+read/edit them in real-time before they reach their destinations.
+
+What does the Repeater tool allow us to do with requests?
+"The Repeater allows you to import a web request and then make manual modifications to it and see the response 
+side by side allowing you to make minor adjustments to attempted exploits and easily see if it’s working."
+
+Direct quote source: https://www.technipages.com/what-is-burp-suite/
+
+Why might this be a useful tool for an attacker?
+It's useful for fine-tuning exploits and observing the effects of different payloads on the application.
+
+## Things I want to know more about
