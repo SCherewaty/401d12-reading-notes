@@ -1,1 +1,25 @@
+Reading
+Understanding SQL Injection, Identification and Prevention
 
+What is SQL injection?
+It’s a bit like impersonating a CEO’s (or high level leader) email. 
+You can send whatever outlandish message to an unwitting employee and probably 
+have them do it.  The CEO is presumably honest and so is the unwitting employee. 
+It’s the injected instructions that cause the harm.
+
+Can you give an example of how a hacker could use SQL injection to gain unauthorized access?
+A hacker could enter a username like admin'-- and any password into a login form. 
+The -- comments out the rest of the SQL query, tricking the database into thinking 
+the query is only checking for the username admin. This allows the hacker to bypass 
+the password check and gain unauthorized access to the admin account.
+
+What are some ways to prevent SQL injection attacks on a web server?
+-You can use prepared statements or parameterized queries, which ensure 
+user inputs are treated strictly as data. 
+-Implement input validation and sanitization to reject suspicious 
+or malformed input. 
+-Also employ stored procedures to encapsulate and execute SQL queries securely. 
+Additionally, restrict database user privileges to the minimum necessary and avoid 
+displaying detailed error messages that could aid attackers.
+
+## Things I want to know more about
