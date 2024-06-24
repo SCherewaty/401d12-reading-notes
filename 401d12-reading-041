@@ -1,1 +1,14 @@
+Reading
+What is penetration testing
 
+How are the stages of a pen test very similar to those of the Cyber Kill Chain?
+Both frameworks are used to understand and simulate the steps an attacker would take to compromise 
+a system, although from different perspectives—offensive for penetration testing and defensive for 
+the Cyber Kill Chain.
+
+Your manager has asked you to explain the benefits of a pentest to the company’s leadership. How would you lead this conversation?
+Compliance.  I would emphasize that it is a proactive measure essential for meeting regulatory standards and avoiding potential legal and 
+financial penalties associated with non-compliance. Penetration testing would help identify and mitigate vulnerabilities, ensuring that security 
+controls are effective and up to date, which is often a direct requirement of frameworks like GDPR, HIPAA, and PCI-DSS. 
+
+## Things I want to know more about
