@@ -1,1 +1,18 @@
+Reading
 
+Explain a Sniffing attack using non-technical terms.
+It's like the "telephone" little kids contruct using string and cups.  Except a sniffer would be another kid
+tying a third cup and string in between the two other kids to be able to hear what they're saying.
+
+What are the two types of sniffing attacks and what are some pros and cons of each approach?
+The two types of sniffing attacks are passive and active sniffing. Passive sniffing involves monitoring and capturing 
+data from a network without altering the traffic, making it hard to detect but limited to unencrypted information. 
+Active sniffing, involves injecting packets into the network to disrupt traffic and capture data, 
+which can expose more information but is easier to detect due to its intrusive nature.
+
+How does encryption protect traffic against sniffing attacks?
+Encryption protects traffic against sniffing attacks by encoding the data being transmitted, making it unreadable to 
+unauthorized peeps. Even if a sniffer captures the encrypted data, it cannot decipher the content without 
+the correct decryption key. This ensures that sensitive information remains confidential and secure during transmission.
+
+## Things I want to know more about
